@@ -55,10 +55,6 @@
     display: none;
 }
 
-#toggle-menu {
-    display: none;
-}
-
 
 
 
@@ -81,9 +77,9 @@
 
     }
 
-    /* .nav-bar.responsive {
+    .nav-bar.responsive {
         display: block;
-    } */
+    }
     
 
     .nav-bar a {
@@ -102,9 +98,7 @@
 
     }
 
-    #toggle-menu:checked ~ .nav-bar {
-        display: block;
-    }
+ 
 
    
 
